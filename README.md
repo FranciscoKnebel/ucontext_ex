@@ -6,6 +6,8 @@ A coumple of examples regarding `getcontext()`, `setcontext()`, `makecontext()` 
 
 `make`: Compiles all examples into dist folder.
 
+`make clean`: Cleans dist folder.
+
 ### License
 
 MIT License. Click [here](LICENSE.md) for more information about licensing.
